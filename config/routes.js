@@ -27,7 +27,7 @@ export default [
               path: '/home',
               name: 'Home',
               icon: 'home',
-              component: './dashboard/Home',
+              component: './dashboard',
             },
             {
               component: './404',
